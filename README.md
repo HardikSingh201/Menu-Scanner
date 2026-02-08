@@ -2,7 +2,7 @@
 
 A modern web application that allows you to take a photo of a food timetable or menu and instantly see what meals are available for the current day.
 
-![App Preview](https://github.com/HardikSingh201/Menu-Scanner/blob/main/Screenshot%202026-02-06%20125609.png?raw=true)
+![App Preview](https://github.com/HardikSingh201/Menu-Scanner/blob/main/Screenshot%202026-02-06%20125609.png?raw=true/https://github.com/HardikSingh201/Menu-Scanner/blob/main/Screenshot%202026-02-06%20125643.png?raw=true)
 
 ## Features
 - **AI Processing**: Automatically extracts meal data from images using GPT-4 Vision.
